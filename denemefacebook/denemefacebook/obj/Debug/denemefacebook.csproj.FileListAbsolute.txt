@@ -1,0 +1,14 @@
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\bin\Debug\denemefacebook.exe.config
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\bin\Debug\denemefacebook.exe
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\bin\Debug\denemefacebook.pdb
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.csprojAssemblyReference.cache
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.Form1.resources
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.Properties.Resources.resources
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.csproj.GenerateResource.cache
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.csproj.CoreCompileInputs.cache
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.exe
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.pdb
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.kayit.resources
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.admin.resources
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.uyekontrol.resources
+C:\Users\msı\source\repos\denemefacebook\denemefacebook\obj\Debug\denemefacebook.uyegiris.resources
